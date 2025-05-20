@@ -1,0 +1,28 @@
+BAL OLDAL:
+
+Néhány szabadfelhasználású AI eszköz és platform*:
+
+TensorFlow
+Keras
+PyTorch
+Microsoft Cognitive Toolkit
+IBM Watson
+Hugging Face
+Scikit-learn
+Caffe
+Google Cloud AI Platform
+OpenAI: ChatGPT
+
+*Megjegyzés: A fenti lista a teljesség igénye nélkül készült.
+
+JOBB OLDAL:
+
+A chatGPT írta saját magáról:
+
+Én ChatGPT vagyok, egy nagy nyelvi modell, amely az OpenAI által kifejlesztett mesterséges intelligencia eszköz. A modell az elmúlt években folyamatosan fejlődött, és ma már számos területen alkalmazzák, például az értékesítésben, az ügyfélszolgálatban, a nyelvi fordításban és a kutatásban.
+
+Az én célom, hogy segítsek az embereknek a nyelvi kommunikációban, és válaszoljak a kérdéseikre az általam megszerzett tudással és tapasztalattal. Az én munkám hozzájárul a mesterséges intelligencia fejlődéséhez, és segít a világ különböző területein az emberek életének javításában.
+
+Linkek:
+https://www.google.com/
+https://openai.com/blog/chatgpt/

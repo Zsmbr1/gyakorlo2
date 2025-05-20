@@ -1,0 +1,1 @@
+with open("kutyusok.txt" encoding="utf-8")
